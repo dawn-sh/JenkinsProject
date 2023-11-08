@@ -13,5 +13,6 @@
 </head>
 <body>
 안뇽하세용 <br> 오늘은 젠킨스 CICD 파이프라인 구출할 예정입니다 <br>
+<img alt="" src="../10.jpeg" style="width: 300px;">
 </body>
 </html>
